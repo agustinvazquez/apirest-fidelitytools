@@ -125,7 +125,7 @@ Pedido completo
     "sitio": {
         "idSitio": 266
     },
-    "formaPago": "Sol",
+    "formaPago": "Sol", //Puede contener la moneda en que se realizo o en caso de haberse ejecutado por un gateway puede contener "MercadoPago", "TodoPago"
     "listaProductosxPedido": [
         {
             "producto": {
