@@ -149,7 +149,7 @@ Estado Pago
     ID:5 - El pago fue devuelto al usuario.
     ID:6 - El pago fue cancelado por superar el tiempo necesario para realizar el pago o por una de las partes.
     ID:7 - Se inició una disputa para el pago.
-    ID:12 selected="selected - Sin Definir
+    ID:12 - Sin Definir
     ID:19 - Fue hecho un contracargo en la tarjeta del pagador.
     ID:20 - El pago ha sido autorizado pero aún no fue capturado.
     ID:21 - Presupuesto
